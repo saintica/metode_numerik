@@ -39,7 +39,8 @@ members = {
     'HF': ('H', 'F'),
     'GF': ('G', 'F'),
     'EF': ('E', 'F'),
-    'CF': ('C', 'F')
+    'CF': ('C', 'F'),
+    'GH': ('G', 'H')
 }
 
 # Create the equilibrium equations
